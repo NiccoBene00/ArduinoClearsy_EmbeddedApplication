@@ -126,7 +126,6 @@ void setup() {
 /*Esegue il main loop di Arduino Due                                */
 /*Viene chiamata automaticamente da Arduino                         */
 /*Implementa la FSM per riconoscere la frequenza configurata        */
-/*NOTA: questa funzione deve essere scritta da voi :)               */
 /*------------------------------------------------------------------*/
 void loop() {
   /*NOTA: per minimizzare il jitter del riconoscitore di frequenza, questa funzione non dovrebbe  */
